@@ -4,10 +4,10 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-        <div class="container">
+        <div className="container">
           <a style={{textDecoration: 'none'}} className="link" href="CV.pdf" download>
-            <div class="text-with-animation">Coming</div>
-            <div class="subtext-with-animation">
+            <div className="text-with-animation">Coming</div>
+            <div className="subtext-with-animation">
               <span>soon</span>
               <span> #2019</span>
             </div>
