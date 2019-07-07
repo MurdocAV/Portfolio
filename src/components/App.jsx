@@ -1,15 +1,17 @@
-import React, {Component} from 'react';
+import React, { Component } from "react";
 
 class App extends Component {
   render() {
     return (
       <div className="App">
         <div class="container">
-          <div class="text-with-animation">Coming</div>
-          <div class="subtext-with-animation">
-            <span>soon</span>
-            <span> #2019</span>
-          </div>
+          <a style={{textDecoration: 'none'}} className="link" href="CV.pdf" download>
+            <div class="text-with-animation">Web Development</div>
+            <div class="subtext-with-animation">
+              <span>in</span>
+              <span> #2019</span>
+            </div>
+          </a>
         </div>
       </div>
     );
