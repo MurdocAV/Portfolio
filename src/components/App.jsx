@@ -6,9 +6,9 @@ class App extends Component {
       <div className="App">
         <div class="container">
           <a style={{textDecoration: 'none'}} className="link" href="CV.pdf" download>
-            <div class="text-with-animation">Web Development</div>
+            <div class="text-with-animation">Coming</div>
             <div class="subtext-with-animation">
-              <span>in</span>
+              <span>soon</span>
               <span> #2019</span>
             </div>
           </a>
