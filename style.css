@@ -3,7 +3,9 @@
 body {
   background-image: url("./bg.png");
   background-size: cover;
+  background-repeat: no-repeat;
 } 
+
 .text-with-animation {
   font-size: 6vw;
   text-transform: uppercase;
