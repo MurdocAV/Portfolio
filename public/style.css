@@ -1,5 +1,9 @@
 @import url('https://fonts.googleapis.com/css?family=Gochi+Hand|Roboto:700');
 
+html {
+  overflow: hidden;
+}
+
 body {
   background-image: url("./bg.png");
   background-size: cover;
